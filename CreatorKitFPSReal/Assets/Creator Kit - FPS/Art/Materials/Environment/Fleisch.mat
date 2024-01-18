@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoRamp2:
-        m_Texture: {fileID: 28989343852070338, guid: 5e5ba7b4854c246b79089dbaaa667c8a,
+        m_Texture: {fileID: 28670419446738178, guid: ff8933603800144cfb63683dd7bd2888,
           type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
